@@ -10,7 +10,7 @@
 > [!WARNING]
 > This launcher does **not** promote piracy. All game data is fetched from official Mojang sources.
 
-# PLauncher – A Lightweight Minecraft Launcher  
+# PLauncher – A Simple & Lightweight Minecraft Launcher  
 
 PLauncher is a **free, open-source** Minecraft launcher written in Python, designed for simplicity and performance.
 
